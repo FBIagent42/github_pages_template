@@ -1,5 +1,7 @@
 # Predicting Board Game Type with KNN: A Beginner's Guide
 
+![Board Game](board_game_pic.jpg "Board Game")
+
 ## Introduction
 
 Have you ever had a hobby that you wish you could predict, without having to do any of the work? Maybe you want to be able to predict what sport an athlete plays just based on height, weight, and eye color? Or guess which actor will be cast for a role based on their previous roles? In this tutorial, we’ll walk through how to use the **K-Nearest Neighbors (KNN)** algorithm to classify data based on the attributes they possess. We will use Board Game data as an example, modeling the type of board game based of attributes like player count, time, and complexity
