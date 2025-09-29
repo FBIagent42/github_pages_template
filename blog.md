@@ -1,6 +1,6 @@
 # Predicting Board Game Type with KNN: A Beginner's Guide
 
-![Board Game](board_game_pic.jpg "Board Game")
+![Board Game](board_game.png)
 
 ## Introduction
 
