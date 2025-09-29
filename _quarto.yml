@@ -9,7 +9,8 @@ website:
   navbar:
     background: primary
     left:
-
+      - text: "Home"
+        href: index.md
       - text: "Blog"
         href: blog.md
 
